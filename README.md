@@ -14,16 +14,16 @@ python distribution.py (image file)
 
 ## 1
 ### origin
-![ex1](/example0.jpg)
+![ex1](./example/ex0.jpg)
 ### Hue distribution
-![ex1_H](/exapmle0_H.jpg)
+![ex1_H](./example/ex0_H.jpg)
 ### Tone distribution
-![ex1_VC](/example0_VC.jpg)
+![ex1_VC](./example/ex0_VC.jpg)
 
 ## 2
 ### origin
-![ex2](/example1.jpg)
+![ex2](./example/ex1.jpg)
 ### Hue distribution
-![ex2_H](/exapmle1_H.jpg)
+![ex2_H](./example/ex1_H.jpg)
 ### Tone distribution
-![ex2_VC](/example1_VC.jpg)
+![ex2_VC](./example/ex1_VC.jpg)
